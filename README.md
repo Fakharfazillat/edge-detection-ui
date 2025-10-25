@@ -1,4 +1,4 @@
-# Interactive Edge Detection Application 🧠
+# Interactive Edge Detection Application
 **Course:** Computer Vision (CS-4218)  
 **Name:** Fakhar Fazillat  
 **Roll Number:** 0112-BSCS-22  
@@ -6,14 +6,14 @@
 
 ---
 
-## 📘 Project Overview
+## Project Overview
 This project provides an **interactive web-based application** to visualize and experiment with different edge detection algorithms — **Sobel**, **Laplacian**, and **Canny** — using **Python**, **OpenCV**, and **Streamlit**.
 
 The application allows users to upload an image, adjust parameters dynamically, and observe how edge detection results change in real-time.
 
 ---
 
-## 🧰 Tools and Libraries
+## Tools and Libraries
 - **Python 3.11**  
 - **Streamlit** – for the web interface  
 - **OpenCV** – for image processing  
@@ -22,7 +22,7 @@ The application allows users to upload an image, adjust parameters dynamically, 
 
 ---
 
-## 🌟 Features
+## Features
 ✅ Upload an image (JPG / PNG / BMP)  
 ✅ Choose between **Sobel**, **Laplacian**, and **Canny** algorithms  
 ✅ Adjust kernel size, thresholds, and gradient directions  
@@ -32,7 +32,7 @@ The application allows users to upload an image, adjust parameters dynamically, 
 
 ---
 
-## 🖼️ Application Screenshots
+## Application Screenshots
 Twelve screenshots are included in the **`screenshots`** folder.  
 They show **four different images**, each tested with different parameters using:  
 - **Sobel filter**  
@@ -43,7 +43,7 @@ Each screenshot clearly demonstrates how varying parameters affect edge detectio
 
 ---
 
-## 🧩 How to Run the App
+## How to Run the App
 1. **Clone or download** this repository.  
 2. Open the project folder in **VS Code** or **Command Prompt**.  
 3. Run the following commands one by one:
